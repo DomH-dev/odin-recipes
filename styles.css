@@ -25,3 +25,12 @@ p {
     text-decoration: underline;
     font-size: 24px;
 }
+
+li.ingredients {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+
+.instructions {
+    font-size: 16px;
+}
